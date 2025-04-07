@@ -42,7 +42,7 @@ pip install -r requirements.txt
 # Install
 
 ```
-git clone https://github.com/Mr-Spect3r/Telegra-Scraper
+git clone https://github.com/Mr-Spect3r/Telegram-Scraper
 cd Telegram-Scraper
 pip install -r requirements.txt
 python scrap.py
