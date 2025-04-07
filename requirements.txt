@@ -1,0 +1,4 @@
+telethon
+colorama 
+webbrowser
+pytz
