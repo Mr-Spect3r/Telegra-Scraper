@@ -10,7 +10,7 @@ from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 from telethon.tl.types import UserStatusRecently, UserStatusLastMonth, UserStatusLastWeek, UserStatusOffline, UserStatusOnline, PeerChannel, ChannelParticipantsAdmins, User
 import webbrowser
 
-webbrowser.open('http://github.com/Mr-Spect3r/My-Tools', new=2)
+webbrowser.open('https://github.com/Mr-Spect3r/My-Tools/blob/main/Vip/Telegram-Reporter.md', new=2)
 
 init()
 
