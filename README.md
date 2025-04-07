@@ -33,6 +33,12 @@ Save all information as json
 - Active last month
 - Inactive
 
+# Prerequisites
+
+```
+pip install -r requirements.txt
+
+
 ## How to get Apis?
 
 Tool: https://github.com/esfelurm/Apis-Telegram
