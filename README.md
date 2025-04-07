@@ -23,9 +23,9 @@ Save all information as json
 {"date": "2025-04-05 20:09:25", "name": "Poc 2", "username": "@SonS3a", "user_id": 7295479621, "text": "@MrEsfelurm"}
 ```
 
-## Scrap Member
+# Scrap Member
 
-# Features:
+## Features:
 
 - All users
 - Active today/yesterday
