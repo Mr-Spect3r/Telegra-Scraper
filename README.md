@@ -33,4 +33,8 @@ Save all information as json
 - Active last month
 - Inactive
 
+## How to get Apis?
+
+Tool: https://github.com/esfelurm/Apis-Telegram
+
 </b>
