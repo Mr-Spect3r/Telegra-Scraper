@@ -39,6 +39,15 @@ Save all information as json
 pip install -r requirements.txt
 ```
 
+# Install
+
+```
+git clone https://github.com/Mr-Spect3r/Telegra-Scraper
+cd Telegram-Scraper
+pip install -r requirements.txt
+python scrap.py
+```
+
 ## How to get Apis?
 
 Tool: https://github.com/esfelurm/Apis-Telegram
